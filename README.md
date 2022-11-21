@@ -31,4 +31,4 @@
   <a href="https://www.instagram.com/colding97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/colding97/"/></a>&nbsp
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=colding97)](https://solved.ac/colding97)
+<p align="center"> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=colding97)](https://solved.ac/colding97)</p>
