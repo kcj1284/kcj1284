@@ -24,10 +24,5 @@
 <br>
 
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
-<p align="center">
-  <a href="https://www.instagram.com/colding97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/colding97/"/></a>&nbsp
-</p>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=colding97)](https://solved.ac/colding97)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcj1284&layout=compact&theme=dark)
